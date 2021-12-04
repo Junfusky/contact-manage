@@ -6,6 +6,10 @@
     height: 100%;
     min-height: 100%;
 
+    mat-icon {
+      margin-right: 5px;
+    }
+
     .app-sidenav-content {
         display: flex;
         height: 100%;
